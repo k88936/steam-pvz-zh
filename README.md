@@ -7,6 +7,7 @@ properties/LawnStrings.txt
 main.pak
 PlantsVsZombies.exe
 ```
+(get from release)
 
 ## 修复
 ```bash
